@@ -19,11 +19,11 @@ $(function() {
 });
 
 $(function() {
-  $('#mindspace-toggle').hide();
+  $('#dillydally-toggle').hide();
 
   //New tweet form slides down when compose button is clicked
-  $('#mindspace-button').click(function() {
-    $('#mindspace-toggle').slideToggle();
+  $('#dillydally-button').click(function() {
+    $('#dillydally-toggle').slideToggle();
   });
 
 });
