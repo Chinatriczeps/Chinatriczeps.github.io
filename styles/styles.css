@@ -47,15 +47,15 @@ button:hover {
 /* Side navigation */
 .side-nav {
   min-height: 100%;
-  background: rgb(200, 227, 225);
+  background: grey;
 }
 
 .about-me {
-  background: white;
+  background: red;
 }
 
 .contact-me {
-  background: white;
+  background: red;
 }
 
  #profile-pic {
