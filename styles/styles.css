@@ -100,6 +100,7 @@ button:hover {
 
 /* Employment */
 .employment-container {
+  align-content: center;
   padding-top: 0;
   padding-bottom: 0;
 }
