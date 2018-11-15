@@ -47,7 +47,7 @@ button:hover {
 /* Side navigation */
 .side-nav {
   min-height: 100%;
-  background: grey;
+  background: rgb(200, 227, 225);
 }
 
 .about-me {
