@@ -47,7 +47,7 @@ button:hover {
 /* Side navigation */
 .side-nav {
   min-height: 100%;
-  background: rgb(200, 227, 225);
+  background: #00a087;
 }
 
 .about-me {
@@ -100,7 +100,6 @@ button:hover {
 
 /* Employment */
 .employment-container {
-  align-content: center;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -146,11 +145,6 @@ section.employment p {
 
 .footer p {
   font-size: 14px;
-}
-
-.love {
-  color: rgb(200, 227, 225);
-  font-size: 12px;
 }
 
 /* Media Queries */
