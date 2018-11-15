@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  background-color: #fff;
+  background-color: #00a087;
   box-sizing: border-box;
   color: rgb(118, 113, 113);
   font-family: 'pt sans', sans-serif;
@@ -47,15 +47,15 @@ button:hover {
 /* Side navigation */
 .side-nav {
   min-height: 100%;
-  background: #00a087;
+  background: white;
 }
 
 .about-me {
-  background: white;
+  background: #00a087;
 }
 
 .contact-me {
-  background: white;
+  background: #00a087;
 }
 
  #profile-pic {
