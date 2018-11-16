@@ -14,8 +14,8 @@ hr {
 
 
 a {
-  color: black;
   text-decoration: none;
+  color: rgb(118, 113, 113);
 }
 
 a:hover {
@@ -26,6 +26,11 @@ a:hover {
 button:hover {
   color: black;
   cursor: pointer;
+}
+
+element.style {
+  color: black;
+  border-color: black;
 }
 
 .row {
@@ -86,15 +91,11 @@ button:hover {
 }
 
 .projects p {
-  color: black;
   margin-bottom: 5px;
 }
 
-.projects button {
-  color: black;
-}
 
-
+/* Employment */
 .employment-container {
   padding-top: 0;
   padding-bottom: 0;
