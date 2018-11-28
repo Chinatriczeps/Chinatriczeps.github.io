@@ -47,3 +47,13 @@ $(function() {
   });
 
 });
+
+$(function() {
+  $('#bonsai-toggle').hide();
+
+  //New tweet form slides down when compose button is clicked
+  $('#bonsai-toggle').click(function() {
+    $('#bonsai-toggle').slideToggle();
+  });
+
+});
