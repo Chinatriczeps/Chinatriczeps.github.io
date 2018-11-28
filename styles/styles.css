@@ -1,3 +1,8 @@
+element.style {
+  color: black;
+  border-color: black;
+}
+
 body {
   font-size: 16px;
   background-color: #00a087;
@@ -12,7 +17,6 @@ hr {
   border-color: white;
 }
 
-
 a {
   text-decoration: none;
   color: rgb(118, 113, 113);
@@ -26,11 +30,6 @@ a:hover {
 button:hover {
   color: black;
   cursor: pointer;
-}
-
-element.style {
-  color: black;
-  border-color: black;
 }
 
 .row {
@@ -94,8 +93,6 @@ element.style {
   margin-bottom: 5px;
 }
 
-
-/* Employment */
 .employment-container {
   padding-top: 0;
   padding-bottom: 0;
