@@ -1,7 +1,7 @@
 $(function() {
   $('#jungle-toggle').hide();
 
-  //New tweet form slides down when compose button is clicked
+  // Button Toggle for clickable portfolio references
   $('#jungle-button').click(function() {
     $('#jungle-toggle').slideToggle();
   });
@@ -11,7 +11,7 @@ $(function() {
 $(function() {
   $('#chatty-toggle').hide();
 
-  //New tweet form slides down when compose button is clicked
+  // Button Toggle for clickable portfolio references
   $('#chatty-button').click(function() {
     $('#chatty-toggle').slideToggle();
   });
@@ -21,7 +21,7 @@ $(function() {
 $(function() {
   $('#dillydally-toggle').hide();
 
-  //New tweet form slides down when compose button is clicked
+  // Button Toggle for clickable portfolio references
   $('#dillydally-button').click(function() {
     $('#dillydally-toggle').slideToggle();
   });
@@ -31,7 +31,7 @@ $(function() {
 $(function() {
   $('#tweeter-toggle').hide();
 
-  //New tweet form slides down when compose button is clicked
+  // Button Toggle for clickable portfolio references
   $('#tweeter-button').click(function() {
     $('#tweeter-toggle').slideToggle();
   });
@@ -41,7 +41,7 @@ $(function() {
 $(function() {
   $('#tinyapp-toggle').hide();
 
-  //New tweet form slides down when compose button is clicked
+  // Button Toggle for clickable portfolio references
   $('#tinyapp-button').click(function() {
     $('#tinyapp-toggle').slideToggle();
   });
@@ -51,7 +51,7 @@ $(function() {
 $(function() {
   $('#bonsai-toggle').hide();
 
-  //New tweet form slides down when compose button is clicked
+  // Button Toggle for clickable portfolio references
   $('#bonsai-button').click(function() {
     $('#bonsai-toggle').slideToggle();
   });
